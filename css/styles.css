@@ -1,0 +1,48 @@
+.part1 {
+background-image:url(/tmp/guest-q6fdad/Desktop/yolomy/images/hero.jpg);
+height: 1130px;
+background-size: cover;
+
+
+background-repeat:no-repeat;
+}
+
+p {
+  color: white;
+}
+h1 {
+color: white;
+}
+.image {
+background-image: url(/tmp/guest-q6fdad/Desktop/yolomy/images/tshirt.png);
+background-size: cover;
+background-repeat: no-repeat;
+}
+.section4 {
+background-image:url(/tmp/guest-q6fdad/Desktop/yolomy/images/about.jpg);
+padding: 70px;
+}
+.about{
+border-style: solid;
+  border-width: 1px;
+}
+.section6{
+text-align: center;
+padding: 20px;
+}
+.section3{
+background-color: rgba(195,131,76);
+}
+.section1{
+margin-top: 280px;
+}
+.section h1{
+font-size: 90px;
+}
+.section p{
+font-size: 27px;
+
+}
+.card{
+height:600px;
+}
